@@ -1,5 +1,5 @@
 # OOP_2
-Thank God I passed these labs! 
+Thanks Goodness! I passed these labs! 
 Тема: программное средство "Продажа термосов фирмы TORO без доставки в РБ".
 P.S. правки актуальны на 03.12.2021.
 
